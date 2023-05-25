@@ -1,0 +1,19 @@
+	Company Name, XYZ
+	Address: Xyz, Floor4
+------------------------------------------------
+ Employee ID		:  104
+ Salary Of		:  May-2022
+ Generated On		:  24-12-2022
+------------------------------------------------
+ Total Days		:  30
+ Total Present		:  29
+ Total Absent		:  1
+ Convence		:  Rs.1500
+ Medical		:  Rs.1500
+ Provident Fund		:  Rs.1500
+ Gross Payment		:  Rs.30000
+ Net Salary		:  Rs.27500.0
+------------------------------------------------
+This is computer generated slip, not
+required any signature
+
